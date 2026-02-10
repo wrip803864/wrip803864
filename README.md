@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello my name is William Perry, I'm currently wroking as an Inventory Manager and Genius for BMW.
+## I mainly work on projects related to IT and Cybersecurity
+
 
 <!--
 **wrip803864/wrip803864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
